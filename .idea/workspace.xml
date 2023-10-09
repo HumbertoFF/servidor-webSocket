@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a62e11c7-0064-4d4f-bd56-a447407d5f5d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/tcc/WebSocket/config/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/tcc/WebSocket/controller/WebSocketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/tcc/WebSocket/handler/WebSocketHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/tcc/cors/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../icons/LI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../icons/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../icons/whatsapp-icone-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/menuhamburguer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/quiz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/tarefas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logo/Quiz-Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logo/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../styleQuiz.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UV8Jk9V07F5ZUvdx3lcpi94i3O" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Humberto e Larissa/Desktop/TCC/WebSocketServer/src/test/java/com/example/websocketserver&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Humberto e Larissa/Desktop/TCC/extensão de teste&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;9c9a02b1198a4dca1a6972dc06e164a3&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.tcc.WebSocket.config" />
+      <recent name="com.example" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebSocketServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="WebSocketServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.tcc.WebSocket.WebSocketServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a62e11c7-0064-4d4f-bd56-a447407d5f5d" name="Changes" comment="" />
+      <created>1693013320097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693013320097</updated>
+      <workItem from="1693013321159" duration="1972000" />
+      <workItem from="1693525102261" duration="4087000" />
+      <workItem from="1693674456501" duration="16573000" />
+      <workItem from="1693959102331" duration="32000" />
+      <workItem from="1694000047577" duration="3741000" />
+      <workItem from="1694191650771" duration="14549000" />
+      <workItem from="1694271033601" duration="1879000" />
+      <workItem from="1694452904911" duration="675000" />
+      <workItem from="1694797735799" duration="4141000" />
+      <workItem from="1695427672185" duration="645000" />
+      <workItem from="1695655706955" duration="2298000" />
+      <workItem from="1695768851446" duration="4865000" />
+      <workItem from="1695922711523" duration="3996000" />
+      <workItem from="1696009667418" duration="2107000" />
+      <workItem from="1696119439093" duration="2009000" />
+      <workItem from="1696357209885" duration="1171000" />
+      <workItem from="1696561948374" duration="1034000" />
+      <workItem from="1696722212265" duration="1824000" />
+      <workItem from="1696877745834" duration="950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
