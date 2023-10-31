@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a62e11c7-0064-4d4f-bd56-a447407d5f5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/tcc/WebSocket/config/WebSocketConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/tcc/WebSocket/controller/WebSocketController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/tcc/WebSocket/handler/WebSocketHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/tcc/cors/CorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../icons/LI.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../icons/github.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../icons/whatsapp-icone-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js/menuhamburguer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js/quiz.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js/tarefas.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logo/Quiz-Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../logo/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../styleQuiz.css" beforeDir="false" />
+    <list default="true" id="a62e11c7-0064-4d4f-bd56-a447407d5f5d" name="Changes" comment="Primeiro Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +20,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,7 +51,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/Humberto e Larissa/Desktop/TCC/WebSocketServer/src/test/java/com/example/websocketserver&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Humberto e Larissa/Desktop/TCC/extensão de teste&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Humberto e Larissa/Desktop/TCC/pje/WebSocketServer/servidor-webSocket&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -120,7 +104,17 @@
       <workItem from="1696561948374" duration="1034000" />
       <workItem from="1696722212265" duration="1824000" />
       <workItem from="1696877745834" duration="950000" />
+      <workItem from="1696883499671" duration="2591000" />
+      <workItem from="1697197799699" duration="664000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeiro Commit">
+      <created>1696883785979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696883785980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,5 +130,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit" />
   </component>
 </project>
